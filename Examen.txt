@@ -1,0 +1,52 @@
+Nombre: Laura Luján Hernández	
+Grupo: Matutino 2
+Fecha: 10/11/2019
+	
+	GIT
+	
+	Cual es la diferencia entre git y GitHUB?
+Git es un manejador de control de versiones, mientras que github es el servicio "cloud"
+que te permite manejar los repositorios de GIT.
+
+	En cuantos y cuales estados puede estar un archivo?
+3 (working directory, staged, commited)
+
+	Para que sirve el comando "git add ." ?
+sirve para agregar cambios de working directory a staged area.
+
+	Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+asegurarse que los cambios estan staged, incluir mensaje de commit
+
+	Cual es el comando para crear una rama en mi repositorio?
+git branch 
+
+	JIRA
+	
+	Defina lo que es un issue:
+un issue es lo que se esta trabajando en jira, puede ser una tarea, story, bug etc.
+
+	En kanban y scrum, cuales son las columnas default de un tablero?
+Kanban-
+selected for development, in progress, done
+SCRUM-
+TODO, in progress, done
+
+	Como se selecciona un Dashboard para mostrarse en la pantalla de bienvenida?
+ir al menu de dashboards, manage dashboard, mark as favorite.
+	
+	Jenkins
+	
+	Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+/.jenkins
+
+	Como se installa Jenkins en un sistema linux?
+desde la consola de linux, descargar e instalar version 11 de java, una vez instalada,
+importar jenkins, luego instalar, todo esto con comando SUDO import, SUDO install.
+
+	Cual es la relacion entre Hudson y Jenkins? 
+Antes de ser Jenkins existió Hudson, luego cuando este se hizo de paga, la comunidad de
+desarrolladores decidió crear Jenkins.
+	
+
+
+
